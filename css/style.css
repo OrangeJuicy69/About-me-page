@@ -105,4 +105,38 @@ main {
     justify-content: center;    /* horizontal */
     align-items: center;        /* vertikal */
 }
-
+.uwu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.uwu-class {
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #dbdbdb;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    font-size: 40px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    
+}
+.css-pain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pain{
+    padding: 10px 20px;
+    background-color: #111111a4;
+    color: #dbdbdb;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    font-size: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
